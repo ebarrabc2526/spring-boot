@@ -8,7 +8,7 @@
         <version>4.0.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>es.jllopezalvarez.dwes.spring.ejemplos</groupId>
+    <groupId>es.ebarrab.dwes.spring.ejemplos</groupId>
     <artifactId>ejemplo-05-school-specific-repo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ejemplo-05-school-specific-repo</name>

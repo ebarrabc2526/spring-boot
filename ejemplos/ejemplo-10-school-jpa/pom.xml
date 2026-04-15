@@ -8,7 +8,7 @@
         <version>4.0.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>es.jllopezalvarez.ejemplos.spring</groupId>
+    <groupId>es.ebarrab.ejemplos.spring</groupId>
     <artifactId>ejemplo-10-school-jpa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ejemplo-10-school-jpa</name>

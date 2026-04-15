@@ -8,7 +8,7 @@
         <version>3.5.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>es.jllopezalvarez.dwes.spring</groupId>
+    <groupId>es.ebarrab.dwes.spring</groupId>
     <artifactId>ejemplo-03-primerspring</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ejemplo-03-primerspring</name>

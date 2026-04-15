@@ -8,7 +8,7 @@
         <version>4.0.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>es.jllopezalvarez.springboot.ejemplos</groupId>
+    <groupId>es.ebarrab.springboot.ejemplos</groupId>
     <artifactId>ejemplo-100-spring-boot-basics</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ejemplo-100-spring-boot-basics</name>

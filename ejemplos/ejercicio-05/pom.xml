@@ -8,7 +8,7 @@
         <version>4.0.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>es.jllopezalvarez.dwes.spring</groupId>
+    <groupId>es.ebarrab.dwes.spring</groupId>
     <artifactId>ejercicio-05</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ejercicio-05</name>

@@ -5,7 +5,7 @@
 
     <!-- Módulo padre - El hijo hereda cosas del padre, como version y groupId -->
     <parent>
-        <groupId>es.jllopezalvarez.ejemplos.ejemplo20issuetracker</groupId>
+        <groupId>es.ebarrab.ejemplos.ejemplo20issuetracker</groupId>
         <artifactId>ejemplo20issuetracker-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
@@ -25,7 +25,7 @@
         los módulos hijos.
         -->
         <dependency>
-            <groupId>es.jllopezalvarez.ejemplos.ejemplo20issuetracker</groupId>
+            <groupId>es.ebarrab.ejemplos.ejemplo20issuetracker</groupId>
             <artifactId>common</artifactId>
             <version>${project.version}</version>
         </dependency>

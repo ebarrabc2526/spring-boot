@@ -1,0 +1,12 @@
+package es.ebarrab.ejemplos.ejemplo20issuetracker.common.services;
+
+
+
+import es.ebarrab.ejemplos.ejemplo20issuetracker.common.entities.AppUser;
+
+import java.util.Optional;
+
+public interface AppUserService {
+    public Optional<AppUser> findByEmail(String email);
+    public Optional<AppUser> findById(Long id);
+}

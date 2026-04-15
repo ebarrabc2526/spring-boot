@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Coordenadas Maven y versión del módulo "padre" del proyecto -->
-    <groupId>es.jllopezalvarez.ejemplos.ejemplo20issuetracker</groupId>
+    <groupId>es.ebarrab.ejemplos.ejemplo20issuetracker</groupId>
     <artifactId>ejemplo20issuetracker-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Ejemplo 20 - Issue tracker - Padre</name>

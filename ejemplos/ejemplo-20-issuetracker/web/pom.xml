@@ -5,7 +5,7 @@
 
     <!-- Módulo padre - El hijo hereda cosas del padre, como version y groupId -->
     <parent>
-        <groupId>es.jllopezalvarez.ejemplos.ejemplo20issuetracker</groupId>
+        <groupId>es.ebarrab.ejemplos.ejemplo20issuetracker</groupId>
         <artifactId>ejemplo20issuetracker-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
@@ -34,12 +34,12 @@
             En cualquier caso, se mantiene aquí por motivos didácticos, para dejar
             claro que hay una dependencia de common, y no solo de security.
             -->
-            <groupId>es.jllopezalvarez.ejemplos.ejemplo20issuetracker</groupId>
+            <groupId>es.ebarrab.ejemplos.ejemplo20issuetracker</groupId>
             <artifactId>common</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>es.jllopezalvarez.ejemplos.ejemplo20issuetracker</groupId>
+            <groupId>es.ebarrab.ejemplos.ejemplo20issuetracker</groupId>
             <artifactId>security</artifactId>
             <version>${project.version}</version>
         </dependency>
